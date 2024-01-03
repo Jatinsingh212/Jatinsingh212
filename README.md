@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Crossword puzzle<br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning AWS<br>💬 Ask me about Data Science projects<br>⚡ Fun fact: a fervent aesthete of Music 🎸
+🔭 I’m currently working on Cross Puzzle<br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning AWS<br>💬 Ask me about Data Science projects<br>⚡ Fun fact: a fervent aesthete of Music 🎸
 
 
 # 💻 Tech Stack:
